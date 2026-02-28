@@ -1,0 +1,20 @@
+﻿{
+  "database": {
+    "host": "",
+    "port": 22880,
+    "user": "avnadmin",
+    "password": "",
+    "database": "defaultdb",
+    "ssl": {
+      "rejectUnauthorized": true,
+      "ca": "caCert"
+    }
+  },
+  "databaselocal": {
+    "host": "localhostxxxx",
+    "port": 3306,
+    "user": "root",
+    "password": "Wouter11",
+    "database": "node-mysql-crud-api"
+  }
+}
